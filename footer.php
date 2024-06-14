@@ -18,6 +18,10 @@
 			comments_template('', true); 
 		}
 	?>
+	<!-- 看板娘-->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
+	<script src="https://cdn.jsdelivr.net/gh/Antares0982/live2d-widget@latest/autoload.js"></script>
+	<!--看板娘 -->
 	</div><!-- #page Pjax container-->
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info" theme-info="Sakura v<?php echo SAKURA_VERSION; ?>">
