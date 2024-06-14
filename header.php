@@ -61,6 +61,10 @@ if (akina_option('akina_meta') == true) {
 <meta name="description" content="<?php echo $description; ?>" />
 <meta name="keywords" content="<?php echo $keywords; ?>" />
 <?php } ?>
+<!-- 看板娘-->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
+<script src="https://cdn.jsdelivr.net/gh/Antares0982/live2d-widget@latest/autoload.js"></script>
+<!--看板娘 -->
 <link rel="shortcut icon" href="<?php echo akina_option('favicon_link', ''); ?>"/> 
 <meta name="theme-color" content="#31363b">
 <meta http-equiv="x-dns-prefetch-control" content="on">
